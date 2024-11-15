@@ -1,0 +1,13 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#colone1{
+    background-color: greenyellow;
+}
+
+#colspan{
+    background-color: yellow;
+    text-align: center;
+}
